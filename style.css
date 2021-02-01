@@ -1,0 +1,38 @@
+body {
+text-align: center;
+}
+#app {
+background: linear-gradient(lime 0%,orange 100%);
+padding: 100px;
+color: darkblue;
+    font-size: 28px;
+    font-family: cursive;
+}
+#c1 {
+background: linear-gradient(cyan 0%, purple 100%);
+padding: 100px;
+color: hotpink;
+    font-size: 28px;
+    font-family: cursive;
+}
+#pen {
+background: linear-gradient(yellow 0%,blue 100%);
+padding: 100px;
+color: crimson;
+    font-size: 28px;
+    font-family: cursive;
+}
+#pen a {
+color: white;
+    
+}
+#games img {
+margin: 50px;
+border-radius: 20%;
+}
+.carousel-inner p {
+color: lightgoldenrodyellow;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: cursive;
+}
